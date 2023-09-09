@@ -1,0 +1,16 @@
+<head>
+    <title>Mughees</title>
+    <style>
+      .p3{
+        font-weight: bold;
+        color: green;
+        text-shadow: 2px 2px 2px lightgreen;
+        box-shadow: 2px 3px 4px blue;
+        text-indent: 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="p3"> HI! </p>
+  </body>
+</html>
